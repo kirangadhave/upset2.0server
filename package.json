@@ -1,0 +1,22 @@
+{
+  "name": "upset2.0server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirangadhave/upset2.0server.git"
+  },
+  "author": "Kiran B. Gadhave <kirangadhave2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirangadhave/upset2.0server/issues"
+  },
+  "homepage": "https://github.com/kirangadhave/upset2.0server#readme",
+  "devDependencies": {
+    "eslint": "5.2.0"
+  }
+}
